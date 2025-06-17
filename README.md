@@ -5,6 +5,11 @@ This is a project to have a CLI tool wrapper around the pySROS python library. T
 ## Usage
 
 Currently tested is get and set functions. Available parameters are exposed and visible using help command.
+The quickest and easiest way to test this CLI tool is by running the following command:
+
+```shell
+uv tool install git+https://github.com/mabra94/pysros_cli.git
+```
 
 ## Examples:
 
